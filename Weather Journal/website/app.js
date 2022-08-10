@@ -107,7 +107,7 @@ const undateUI = async (data)=>{
      
         dateN.innerHTML = res.date;
         city.innerHTML = res.city + ",";
-        country.innerHTML = res.country;
+        country.innerHTML = res.country + "A.";
         temp.innerHTML = res.temp + "°F";
         feeling.innerHTML = res.feeling? res.feeling:"How are you feeling??";
     
