@@ -4,7 +4,7 @@
 
 ## Overview
 
-### Creating An Asynchronous Web App That Uses Web Api And User Data To Dynamically Update The Ui For A Weather Journal App.
+### Creating An Asynchronous Web App which Uses Web Api And User Data To Dynamically Update The Ui For A Weather Journal App.
 
 ## Instructions
 
